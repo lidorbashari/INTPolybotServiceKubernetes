@@ -3,3 +3,8 @@ loguru>=0.7.0
 requests>=2.31.0
 flask>=2.3.2
 matplotlib
+boto3
+botocore
+flask
+pymongo
+docker
